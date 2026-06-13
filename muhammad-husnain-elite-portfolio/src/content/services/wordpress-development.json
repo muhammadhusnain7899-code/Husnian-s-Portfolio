@@ -1,0 +1,44 @@
+{
+  "slug": "wordpress-development",
+  "order": 2,
+  "featured": true,
+  "title": "WordPress Development",
+  "kicker": "Flexible websites with simple ownership",
+  "summary": "Business websites, portfolios, WooCommerce stores, custom layouts, and performance improvements built for easy management.",
+  "description": [
+    "I create WordPress websites that balance professional presentation, flexible content management, and practical business features.",
+    "Projects can use established builders or custom PHP, CSS, and JavaScript depending on the required level of control and complexity."
+  ],
+  "capabilities": [
+    "Custom WordPress websites",
+    "Business and portfolio websites",
+    "WooCommerce stores",
+    "Elementor development",
+    "Theme customization",
+    "Plugin configuration",
+    "PHP development",
+    "Database management",
+    "Speed optimization",
+    "Hosting setup",
+    "Domain configuration",
+    "Maintenance",
+    "Technical support"
+  ],
+  "tools": [
+    "WordPress",
+    "PHP",
+    "Elementor",
+    "WooCommerce",
+    "MySQL",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "outcomes": [
+    "A professional online presence",
+    "Pages clients can update independently",
+    "Better performance and responsive behavior",
+    "A clear path for future content growth"
+  ],
+  "cta": "Build a WordPress website"
+}

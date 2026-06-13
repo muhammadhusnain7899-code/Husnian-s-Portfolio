@@ -1,0 +1,52 @@
+{
+  "slug": "silsila-shopify-fashion-store",
+  "order": 1,
+  "featured": true,
+  "title": "Silsila Fashion Commerce Experience",
+  "service": "shopify-development",
+  "category": "Shopify \u00b7 Ecommerce",
+  "status": "Portfolio-ready case study",
+  "year": "2025\u20132026",
+  "shortDescription": "A responsive Shopify experience for a Pakistani fashion brand, connecting product presentation, variants, delivery information, and customer support.",
+  "overview": [
+    "The project focused on presenting a premium fashion product clearly while supporting the practical realities of local ecommerce.",
+    "The storefront structure brings together product discovery, size and color variants, mobile responsiveness, purchase guidance, and direct WhatsApp support."
+  ],
+  "problem": "The brand needed a professional online store that could communicate product quality, reduce purchase uncertainty, and make ordering straightforward for mobile-first customers.",
+  "solution": "I structured the product and collection experience around clear visual hierarchy, variant selection, delivery details, brand consistency, and a direct path to support.",
+  "features": [
+    "Custom homepage and product presentation",
+    "Size and color variant structure",
+    "Responsive mobile-first layout",
+    "Collection and cart setup",
+    "Delivery and payment information",
+    "WhatsApp customer support entry point",
+    "Theme-level customization"
+  ],
+  "tools": [
+    "Shopify",
+    "Liquid",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Theme Editor"
+  ],
+  "industry": "Fashion & Apparel",
+  "clientType": "Local ecommerce brand",
+  "timeline": "Iterative development and optimization",
+  "results": [
+    "Storefront prepared for online selling",
+    "Clearer product and delivery communication",
+    "Consistent experience across mobile and desktop"
+  ],
+  "metrics": [],
+  "liveUrl": "https://wearsilsila.com",
+  "githubUrl": "",
+  "cta": "Discuss a Shopify build",
+  "image": "/placeholders/silsila-store.svg",
+  "gallery": [
+    "/placeholders/silsila-store.svg",
+    "/placeholders/shopify-product.svg",
+    "/placeholders/mobile-commerce.svg"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "epilepsy-multiclassification-app",
+  "order": 3,
+  "featured": true,
+  "title": "Epilepsy Multiclassification Mobile Application",
+  "service": "computer-science-projects",
+  "secondaryServices": [
+    "software-development"
+  ],
+  "category": "Computer Science \u00b7 Mobile \u00b7 Machine Learning",
+  "status": "Academic project",
+  "year": "Final Year Project",
+  "shortDescription": "A research-driven mobile and backend system exploring EEG-based epilepsy multiclassification, preprocessing, model inference, and accessible result presentation.",
+  "overview": [
+    "The project combines signal preprocessing, machine learning experimentation, backend services, and a mobile interface.",
+    "It explores how complex EEG classification workflows can be organized into a usable software system for analysis and presentation."
+  ],
+  "problem": "EEG seizure analysis involves large datasets, complex preprocessing, multiple seizure classes, and model outputs that are difficult to present in an accessible workflow.",
+  "solution": "The system architecture separates preprocessing, model execution, API services, background processing, and a React Native interface for displaying results and supporting the user journey.",
+  "features": [
+    "EEG preprocessing pipeline",
+    "Multi-class classification workflow",
+    "1D CNN-LSTM experimentation",
+    "Django REST backend design",
+    "Background processing architecture",
+    "React Native mobile interface",
+    "Result visualizations and documentation"
+  ],
+  "tools": [
+    "Python",
+    "TensorFlow",
+    "Django REST",
+    "Celery",
+    "Redis",
+    "React Native",
+    "EEG datasets",
+    "LaTeX"
+  ],
+  "industry": "Health technology research",
+  "clientType": "Academic / research project",
+  "timeline": "Multi-phase final year project",
+  "results": [
+    "A complete system design connecting ML and mobile development",
+    "Documented preprocessing and architecture decisions",
+    "A practical interface concept for complex model output"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Discuss a technical software project",
+  "image": "/placeholders/epilepsy-app.svg",
+  "gallery": [
+    "/placeholders/epilepsy-app.svg",
+    "/placeholders/eeg-dashboard.svg",
+    "/placeholders/mobile-app.svg"
+  ]
+}

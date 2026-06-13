@@ -1,0 +1,41 @@
+{
+  "slug": "business-process-automation",
+  "order": 9,
+  "featured": false,
+  "title": "Business Process Automation",
+  "kicker": "Operations designed to run with less friction",
+  "summary": "Workflow mapping and automation for leads, customer requests, orders, notifications, records, and internal handoffs.",
+  "description": [
+    "I analyze repetitive business processes, identify avoidable manual steps, and design practical workflows that connect the tools a team already uses.",
+    "The goal is not automation for its own sake. The goal is a simpler operation with clear responsibilities, reliable data, and fewer missed actions."
+  ],
+  "capabilities": [
+    "Process discovery",
+    "Workflow mapping",
+    "Lead routing",
+    "Order logging",
+    "Notification systems",
+    "Data synchronization",
+    "Approval flows",
+    "Follow-up sequences",
+    "Internal dashboards",
+    "Documentation and training"
+  ],
+  "tools": [
+    "n8n",
+    "Make",
+    "Zapier",
+    "Google Workspace",
+    "Airtable",
+    "Notion",
+    "Webhooks",
+    "APIs"
+  ],
+  "outcomes": [
+    "Clearer operating processes",
+    "Reduced repetitive administration",
+    "Improved visibility and handoffs",
+    "A scalable workflow foundation"
+  ],
+  "cta": "Map a business workflow"
+}

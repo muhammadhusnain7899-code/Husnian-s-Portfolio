@@ -1,0 +1,24 @@
+{
+  "name": "muhammad-husnain-elite-portfolio-root",
+  "private": true,
+  "version": "3.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite muhammad-husnain-elite-portfolio",
+    "build": "vite build muhammad-husnain-elite-portfolio",
+    "preview": "vite preview muhammad-husnain-elite-portfolio --host 0.0.0.0",
+    "check": "eslint muhammad-husnain-elite-portfolio"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}

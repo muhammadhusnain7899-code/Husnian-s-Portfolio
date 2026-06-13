@@ -1,0 +1,49 @@
+{
+  "slug": "custom-shopify-sections",
+  "order": 2,
+  "featured": false,
+  "title": "Custom Shopify Sections System",
+  "service": "shopify-development",
+  "category": "Shopify \u00b7 Theme Engineering",
+  "status": "Case study placeholder",
+  "year": "2026",
+  "shortDescription": "Reusable, editable Shopify sections designed to extend a theme without locking the merchant into fixed layouts.",
+  "overview": [
+    "This work demonstrates a modular approach to Shopify theme development.",
+    "Each section is designed with merchant-editable settings, responsive behavior, and reusable content blocks."
+  ],
+  "problem": "Default theme sections could not support the required brand presentation or content flexibility.",
+  "solution": "I created custom Liquid sections with structured schema settings, responsive layouts, and visual behaviors that could be managed in the Shopify Theme Editor.",
+  "features": [
+    "Liquid section architecture",
+    "Editable blocks and settings",
+    "Responsive layouts",
+    "Animation-ready components",
+    "Product-aware content",
+    "Theme bug fixing"
+  ],
+  "tools": [
+    "Shopify Liquid",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "JSON schema"
+  ],
+  "industry": "Ecommerce",
+  "clientType": "Growing Shopify store",
+  "timeline": "Add your exact timeline",
+  "results": [
+    "More flexible content management",
+    "Reduced dependence on hardcoded layouts",
+    "A consistent visual system across pages"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Build custom Shopify sections",
+  "image": "/placeholders/shopify-sections.svg",
+  "gallery": [
+    "/placeholders/shopify-sections.svg",
+    "/placeholders/code-editor.svg"
+  ]
+}

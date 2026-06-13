@@ -1,0 +1,39 @@
+{
+  "slug": "technical-consultation",
+  "order": 10,
+  "featured": false,
+  "title": "Technical Consultation",
+  "kicker": "Clarity before tools and code",
+  "summary": "Practical guidance for choosing platforms, planning digital systems, solving technical blockers, and defining implementation paths.",
+  "description": [
+    "Some projects need clarity before development. I help translate business ideas into technical requirements, compare possible approaches, and define a realistic path forward.",
+    "Consultation can cover platform selection, architecture, automation opportunities, ecommerce flow, deployment, or troubleshooting."
+  ],
+  "capabilities": [
+    "Requirement discovery",
+    "Platform selection",
+    "Technical planning",
+    "Architecture review",
+    "Automation assessment",
+    "Ecommerce flow review",
+    "Troubleshooting",
+    "Implementation roadmaps",
+    "Vendor and tool comparison",
+    "Documentation"
+  ],
+  "tools": [
+    "System diagrams",
+    "Technical documentation",
+    "Figma",
+    "Notion",
+    "GitHub",
+    "Analytics and platform tools"
+  ],
+  "outcomes": [
+    "A clearer project scope",
+    "Reduced implementation risk",
+    "Better technology decisions",
+    "Actionable next steps"
+  ],
+  "cta": "Book a technical consultation"
+}

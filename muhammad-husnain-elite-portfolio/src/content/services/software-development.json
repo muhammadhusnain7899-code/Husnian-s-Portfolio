@@ -1,0 +1,44 @@
+{
+  "slug": "software-development",
+  "order": 4,
+  "featured": true,
+  "title": "Software Development",
+  "kicker": "Reliable logic behind useful products",
+  "summary": "Software features, dashboards, APIs, prototypes, and mobile experiences grounded in clear requirements and maintainable code.",
+  "description": [
+    "I work on software projects that require structured problem solving, interface development, API integration, data flow, and dependable user interactions.",
+    "My software work combines academic computer science foundations with practical product thinking and iterative development."
+  ],
+  "capabilities": [
+    "Software prototypes",
+    "Web applications",
+    "React Native applications",
+    "Dashboard interfaces",
+    "API integration",
+    "Authentication flows",
+    "Form and data systems",
+    "Feature development",
+    "Debugging and testing",
+    "Version control",
+    "Technical documentation"
+  ],
+  "tools": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "React Native",
+    "Python",
+    "Django",
+    "REST APIs",
+    "Firebase",
+    "Git",
+    "GitHub"
+  ],
+  "outcomes": [
+    "Clear feature structure",
+    "Maintainable and testable code",
+    "Practical interfaces for real workflows",
+    "Documentation for future improvement"
+  ],
+  "cta": "Discuss a software project"
+}

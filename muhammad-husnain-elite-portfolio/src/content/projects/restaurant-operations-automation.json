@@ -1,0 +1,53 @@
+{
+  "slug": "restaurant-operations-automation",
+  "order": 8,
+  "featured": false,
+  "title": "Restaurant Operations Automation Concept",
+  "service": "business-process-automation",
+  "secondaryServices": [
+    "ai-automation"
+  ],
+  "category": "Business Automation \u00b7 Operations",
+  "status": "Concept system",
+  "year": "2026",
+  "shortDescription": "A modular workflow concept for menu inquiries, order type selection, delivery details, table bookings, order logging, and staff notification.",
+  "overview": [
+    "The concept maps common restaurant customer interactions into a structured workflow.",
+    "It demonstrates how conversational automation can support\u2014not replace\u2014the operational team."
+  ],
+  "problem": "Restaurants repeatedly answer the same menu, timing, delivery, and booking questions while manually transferring order details to staff.",
+  "solution": "I designed a staged workflow for inquiry handling, order or booking capture, structured records, and staff alerts.",
+  "features": [
+    "Menu inquiry flow",
+    "Dine-in, takeaway, or delivery selection",
+    "Customer information capture",
+    "Table booking support",
+    "Staff notifications",
+    "Order logging",
+    "Confirmation messages"
+  ],
+  "tools": [
+    "n8n",
+    "WhatsApp concepts",
+    "Telegram",
+    "Google Sheets",
+    "AI response systems"
+  ],
+  "industry": "Hospitality",
+  "clientType": "Concept for restaurant businesses",
+  "timeline": "Concept and workflow design",
+  "results": [
+    "A documented operational automation model",
+    "Clear handoff points between system and staff",
+    "A foundation for future implementation"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Design an operations workflow",
+  "image": "/placeholders/restaurant-system.svg",
+  "gallery": [
+    "/placeholders/restaurant-system.svg",
+    "/placeholders/operations-map.svg"
+  ]
+}

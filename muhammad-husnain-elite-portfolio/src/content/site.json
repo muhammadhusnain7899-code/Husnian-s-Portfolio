@@ -1,0 +1,76 @@
+{
+  "name": "Muhammad Husnain",
+  "role": "Computer Science Student \u00b7 Developer \u00b7 Automation Specialist \u00b7 Digital Solutions Architect",
+  "eyebrow": "Available for selected projects & collaborations",
+  "heroTitle": "I build premium digital systems for modern businesses.",
+  "heroSubtitle": "Computer Science thinking, polished interfaces, ecommerce execution, automation workflows, and practical digital solutions\u2014designed to help businesses operate better and grow with clarity.",
+  "location": "Pakistan \u00b7 Working remotely",
+  "education": "Bachelor\u2019s in Computer Science \u00b7 University of Engineering and Technology",
+  "whatsappDisplay": "0313 4525607",
+  "whatsappUrl": "https://wa.me/923134525607",
+  "github": "https://github.com/muhammadhusnain7899-code",
+  "linkedin": "https://www.linkedin.com/in/muhammad-husnain-yaseen-b408613a8/",
+  "fiverr": "https://www.fiverr.com/s/dDv87zg",
+  "email": "",
+  "primaryCta": {
+    "label": "Start a project",
+    "href": "/contact"
+  },
+  "secondaryCta": {
+    "label": "View selected work",
+    "href": "/projects"
+  },
+  "capabilities": [
+    "Shopify",
+    "WordPress",
+    "Custom Web",
+    "Software",
+    "AI Automation",
+    "Meta Ads",
+    "Programming",
+    "Computer Science"
+  ],
+  "metrics": [
+    {
+      "value": "20+",
+      "label": "Digital projects"
+    },
+    {
+      "value": "10",
+      "label": "Technical service areas"
+    },
+    {
+      "value": "End-to-end",
+      "label": "Thinking & execution"
+    },
+    {
+      "value": "Remote",
+      "label": "Local & international work"
+    }
+  ],
+  "aboutShort": "I am a Computer Science student and multi-disciplinary technical professional who enjoys turning complex business problems into clear, reliable digital systems.",
+  "aboutLong": [
+    "My journey began with programming and web development, then expanded into ecommerce, software systems, digital advertising, and workflow automation. That combination helps me see more than a single screen or feature\u2014I look at the complete user and business journey.",
+    "I care about clean engineering, thoughtful design, understandable communication, and practical outcomes. Whether I am building a Shopify experience, a React interface, an automation workflow, or a technical prototype, the goal is the same: create something useful, maintainable, and ready for real people.",
+    "I am currently pursuing a Bachelor\u2019s degree in Computer Science at the University of Engineering and Technology, strengthening my foundations in programming, data structures, algorithms, system design, and technical problem solving while continuing to deliver practical digital work."
+  ],
+  "principles": [
+    {
+      "title": "Think in systems",
+      "text": "Connect design, code, data, operations, and growth instead of treating them as isolated tasks."
+    },
+    {
+      "title": "Make complexity clear",
+      "text": "Turn technical requirements into understandable experiences and manageable solutions."
+    },
+    {
+      "title": "Build for change",
+      "text": "Use modular structures so content, features, and projects can evolve without redesigning everything."
+    },
+    {
+      "title": "Stay honest",
+      "text": "Avoid inflated claims, communicate limitations, and focus on work that can be demonstrated."
+    }
+  ],
+  "profileImage": "/profile/muhammad-husnain-profile.svg"
+}

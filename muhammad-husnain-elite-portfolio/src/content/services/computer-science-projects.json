@@ -1,0 +1,41 @@
+{
+  "slug": "computer-science-projects",
+  "order": 7,
+  "featured": false,
+  "title": "Computer Science Projects",
+  "kicker": "Theory translated into working systems",
+  "summary": "Academic and independent projects involving algorithms, data, machine learning, system design, and technical experimentation.",
+  "description": [
+    "My Computer Science work strengthens the fundamentals behind everything I build: data structures, algorithms, programming concepts, systems thinking, and analytical problem solving.",
+    "These projects give me space to explore technically challenging ideas and connect research or academic requirements with usable software."
+  ],
+  "capabilities": [
+    "C++ programming",
+    "Data structures",
+    "Algorithms",
+    "Object-oriented programming",
+    "Database concepts",
+    "System design",
+    "Machine learning prototypes",
+    "Data preprocessing",
+    "Technical research",
+    "Academic documentation"
+  ],
+  "tools": [
+    "C++",
+    "Python",
+    "Jupyter",
+    "TensorFlow",
+    "Django",
+    "SQL",
+    "Git",
+    "LaTeX"
+  ],
+  "outcomes": [
+    "Stronger technical foundations",
+    "Documented experiments and prototypes",
+    "Structured analysis of complex problems",
+    "Transferable engineering knowledge"
+  ],
+  "cta": "Explore technical work"
+}

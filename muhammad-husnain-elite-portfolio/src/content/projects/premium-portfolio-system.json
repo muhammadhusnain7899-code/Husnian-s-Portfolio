@@ -1,0 +1,56 @@
+{
+  "slug": "premium-portfolio-system",
+  "order": 6,
+  "featured": true,
+  "title": "Content-Driven Personal Portfolio System",
+  "service": "custom-web-development",
+  "secondaryServices": [
+    "software-development"
+  ],
+  "category": "Web Development \u00b7 Product Design",
+  "status": "Live build",
+  "year": "2026",
+  "shortDescription": "A premium, modular portfolio architecture with dynamic services, project case studies, editable content files, responsive design, and lightweight motion.",
+  "overview": [
+    "This website is designed as a long-term personal brand system rather than a fixed one-page template.",
+    "Services and projects are data-driven, detailed pages are generated dynamically, and new content can be added without redesigning the interface."
+  ],
+  "problem": "A conventional portfolio quickly becomes difficult to maintain as new skills, services, projects, images, and case studies are added.",
+  "solution": "I built a reusable component system and content architecture that automatically connects services with projects and supports future growth.",
+  "features": [
+    "Dynamic service pages",
+    "Dynamic project case studies",
+    "JSON content architecture",
+    "Responsive design system",
+    "Motion and page transitions",
+    "Project gallery placeholders",
+    "Related project logic",
+    "Contact and social integrations"
+  ],
+  "tools": [
+    "React",
+    "Vite",
+    "React Router",
+    "Framer Motion",
+    "CSS",
+    "Vercel"
+  ],
+  "industry": "Personal brand / professional services",
+  "clientType": "Personal product",
+  "timeline": "Continuous improvement",
+  "results": [
+    "A scalable portfolio foundation",
+    "A clear balanced technical identity",
+    "Simpler content updates and project expansion"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "https://github.com/muhammadhusnain7899-code",
+  "cta": "Build a premium web experience",
+  "image": "/placeholders/portfolio-system.svg",
+  "gallery": [
+    "/placeholders/portfolio-system.svg",
+    "/placeholders/service-page.svg",
+    "/placeholders/project-page.svg"
+  ]
+}

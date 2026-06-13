@@ -1,0 +1,44 @@
+{
+  "slug": "custom-web-development",
+  "order": 3,
+  "featured": true,
+  "title": "Custom Web Development",
+  "kicker": "Purpose-built digital experiences",
+  "summary": "High-quality websites and web interfaces with custom code, responsive layouts, animation, and scalable content structures.",
+  "description": [
+    "I design and develop custom web experiences for personal brands, businesses, products, and service companies that need more control than a standard template allows.",
+    "The focus is on clean architecture, strong typography, fast interaction, responsive behavior, and content structures that remain manageable as the website grows."
+  ],
+  "capabilities": [
+    "Personal portfolios",
+    "Business websites",
+    "Product landing pages",
+    "Multi-page experiences",
+    "Service and project systems",
+    "Responsive interfaces",
+    "Motion and interaction",
+    "Contact and booking flows",
+    "Vercel deployment",
+    "Domain integration",
+    "Performance optimization",
+    "Content-driven architecture"
+  ],
+  "tools": [
+    "React",
+    "JavaScript",
+    "Vite",
+    "Next.js",
+    "CSS",
+    "Tailwind CSS",
+    "Framer Motion",
+    "GitHub",
+    "Vercel"
+  ],
+  "outcomes": [
+    "A distinct brand experience",
+    "Fast and responsive user journeys",
+    "Reusable components and content data",
+    "Deployment-ready source code"
+  ],
+  "cta": "Create a custom website"
+}

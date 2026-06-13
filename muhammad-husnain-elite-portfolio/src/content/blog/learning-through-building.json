@@ -1,0 +1,14 @@
+{
+  "slug": "learning-through-building",
+  "title": "Learning Computer Science through real systems",
+  "excerpt": "How academic fundamentals become more meaningful when they are applied to software, ecommerce, and automation projects.",
+  "date": "Draft",
+  "readTime": "3 min",
+  "published": false,
+  "cover": "/placeholders/epilepsy-app.svg",
+  "sections": [
+    {"heading":"Fundamentals create better decisions","body":"Data structures, algorithms, programming concepts, and system design are not only academic topics. They influence how software is organized, how performance is considered, and how maintainable a solution becomes."},
+    {"heading":"Projects reveal the real constraints","body":"Building a working system introduces requirements, edge cases, integration problems, user behavior, and deployment concerns. These constraints make technical learning concrete."},
+    {"heading":"The combination matters","body":"My goal is to keep strengthening theory while using it to build practical digital products and workflows that solve understandable problems."}
+  ]
+}

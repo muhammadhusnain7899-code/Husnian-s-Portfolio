@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2edff"/><stop offset="1" stop-color="#dcd0ff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="32" flood-opacity=".14"/></filter></defs>
+<rect width="1600" height="1000" rx="56" fill="url(#g)"/>
+<circle cx="1310" cy="180" r="210" fill="#fff" opacity=".34"/><circle cx="220" cy="830" r="260" fill="#fff" opacity=".28"/>
+<g filter="url(#s)"><rect x="180" y="150" width="1240" height="700" rx="44" fill="#fff" fill-opacity=".74" stroke="#fff" stroke-width="3"/></g>
+<rect x="245" y="218" width="1110" height="64" rx="22" fill="#ffffff"/><circle cx="285" cy="250" r="9" fill="#ef6a64"/><circle cx="317" cy="250" r="9" fill="#e8b74c"/><circle cx="349" cy="250" r="9" fill="#6cc28b"/>
+<rect x="245" y="334" width="300" height="436" rx="30" fill="#6b4fd8" opacity=".92"/>
+<rect x="595" y="334" width="760" height="178" rx="30" fill="#fff"/><rect x="595" y="554" width="358" height="216" rx="30" fill="#fff"/><rect x="997" y="554" width="358" height="216" rx="30" fill="#fff"/>
+<rect x="635" y="382" width="350" height="22" rx="11" fill="#6b4fd8" opacity=".78"/><rect x="635" y="424" width="590" height="15" rx="8" fill="#1e2430" opacity=".12"/><rect x="635" y="454" width="470" height="15" rx="8" fill="#1e2430" opacity=".10"/>
+<text x="295" y="505" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="42" fill="#fff">MH</text><text x="295" y="558" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#fff" opacity=".82">PROJECT</text>
+<text x="800" y="915" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="38" fill="#111113">Instagram Order Concierge</text>
+<text x="800" y="958" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#111113" opacity=".55">Replace this placeholder with your project image</text>
+</svg>

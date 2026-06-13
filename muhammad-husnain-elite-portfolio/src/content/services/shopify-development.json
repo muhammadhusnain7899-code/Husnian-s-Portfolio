@@ -1,0 +1,48 @@
+{
+  "slug": "shopify-development",
+  "order": 1,
+  "featured": true,
+  "title": "Shopify Development",
+  "kicker": "Commerce experiences built to sell",
+  "summary": "Custom Shopify stores, themes, product experiences, integrations, and technical improvements for modern ecommerce brands.",
+  "description": [
+    "I build Shopify stores from the ground up and improve existing stores with custom Liquid, responsive sections, product architecture, and conversion-focused user journeys.",
+    "My approach connects brand presentation with practical ecommerce requirements such as variants, payments, delivery information, customer support, and mobile performance."
+  ],
+  "capabilities": [
+    "Custom Shopify stores",
+    "Theme development",
+    "Theme customization",
+    "Liquid development",
+    "Store setup",
+    "Product and collection pages",
+    "Landing pages",
+    "Custom sections",
+    "Performance and speed optimization",
+    "Payment integration",
+    "Pakistani payment workflows",
+    "Dropshipping stores",
+    "Print-on-demand and 3D printing stores",
+    "Store migration",
+    "Conversion optimization",
+    "App integration",
+    "Maintenance and technical support"
+  ],
+  "tools": [
+    "Shopify",
+    "Liquid",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Shopify CLI",
+    "Theme Editor",
+    "Third-party apps"
+  ],
+  "outcomes": [
+    "A store that feels aligned with the brand",
+    "A cleaner product and purchase journey",
+    "Editable sections the business can manage",
+    "Responsive behavior across devices"
+  ],
+  "cta": "Discuss a Shopify project"
+}

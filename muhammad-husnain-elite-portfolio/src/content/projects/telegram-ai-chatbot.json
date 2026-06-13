@@ -1,0 +1,52 @@
+{
+  "slug": "telegram-ai-chatbot",
+  "order": 7,
+  "featured": false,
+  "title": "Telegram AI Chatbot Prototype",
+  "service": "ai-automation",
+  "secondaryServices": [
+    "software-development"
+  ],
+  "category": "Automation \u00b7 Prototyping",
+  "status": "Prototype",
+  "year": "2026",
+  "shortDescription": "A controlled chatbot environment for testing product replies, conversation state, data collection, and notification logic before wider platform integration.",
+  "overview": [
+    "Telegram provided a practical environment for testing workflow logic independently of a production ecommerce channel.",
+    "The prototype focused on predictable state handling, product context, and structured user data."
+  ],
+  "problem": "Automation logic needed to be tested safely before being connected to a live customer channel.",
+  "solution": "I created a Telegram-based test flow and used it to validate message stages, response behavior, and data handling.",
+  "features": [
+    "Telegram bot setup",
+    "AI reply flow",
+    "Product information handling",
+    "Customer detail collection",
+    "Workflow testing",
+    "Admin notification concepts"
+  ],
+  "tools": [
+    "Telegram Bot API",
+    "n8n",
+    "OpenAI",
+    "Google Sheets",
+    "Webhooks"
+  ],
+  "industry": "Automation development",
+  "clientType": "Internal prototype",
+  "timeline": "Prototype and troubleshooting",
+  "results": [
+    "A safer environment for workflow iteration",
+    "Early validation of conversation logic",
+    "Reusable components for future channels"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Prototype an automation",
+  "image": "/placeholders/telegram-bot.svg",
+  "gallery": [
+    "/placeholders/telegram-bot.svg",
+    "/placeholders/chat-flow.svg"
+  ]
+}

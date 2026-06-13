@@ -1,0 +1,14 @@
+{
+  "slug": "building-digital-systems",
+  "title": "Why I think in digital systems, not isolated deliverables",
+  "excerpt": "A practical view of how websites, operations, automation, and growth work better when they are designed together.",
+  "date": "Draft",
+  "readTime": "4 min",
+  "published": false,
+  "cover": "/placeholders/hero-visual.svg",
+  "sections": [
+    {"heading":"A website is part of a larger journey","body":"A customer may discover a business through an ad, evaluate it through a website, ask a question through WhatsApp, and complete an order through a manual or automated process. Improving only one step can leave the overall experience broken."},
+    {"heading":"The value of connected thinking","body":"When design, development, data, communication, and operations are planned together, a business gains a clearer experience for customers and a more manageable workflow for its team."},
+    {"heading":"How I approach a project","body":"I begin by understanding the goal and the existing process. Then I identify the simplest reliable architecture, build reusable components, test the important user paths, and document how the system can evolve."}
+  ]
+}

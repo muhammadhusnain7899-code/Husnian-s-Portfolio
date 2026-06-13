@@ -1,0 +1,47 @@
+{
+  "slug": "wordpress-business-website",
+  "order": 9,
+  "featured": false,
+  "title": "WordPress Business Website Framework",
+  "service": "wordpress-development",
+  "category": "WordPress \u00b7 Business Website",
+  "status": "Project details placeholder",
+  "year": "Add project year",
+  "shortDescription": "A manageable WordPress website framework for presenting services, building trust, collecting inquiries, and publishing future content.",
+  "overview": [
+    "This case study slot is ready for your real WordPress project screenshots, link, client context, and results.",
+    "The content structure already supports a full problem\u2013solution\u2013result story."
+  ],
+  "problem": "Add the real client problem here.",
+  "solution": "Add the exact design, development, plugin, PHP, performance, or content solution here.",
+  "features": [
+    "Homepage and service pages",
+    "Responsive design",
+    "Contact form",
+    "Content management",
+    "Performance improvements"
+  ],
+  "tools": [
+    "WordPress",
+    "PHP",
+    "Elementor",
+    "CSS",
+    "Plugins"
+  ],
+  "industry": "Add industry",
+  "clientType": "Add client type",
+  "timeline": "Add timeline",
+  "results": [
+    "Add real result",
+    "Add client or user outcome"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Build a WordPress website",
+  "image": "/placeholders/wordpress-site.svg",
+  "gallery": [
+    "/placeholders/wordpress-site.svg",
+    "/placeholders/wordpress-mobile.svg"
+  ]
+}

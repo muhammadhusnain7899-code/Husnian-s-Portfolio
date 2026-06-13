@@ -1,0 +1,40 @@
+{
+  "slug": "ecommerce-solutions",
+  "order": 8,
+  "featured": false,
+  "title": "Ecommerce Solutions",
+  "kicker": "The full path from product to purchase",
+  "summary": "Connected ecommerce systems covering storefronts, product journeys, payments, support, order handling, and growth.",
+  "description": [
+    "Ecommerce success depends on more than a storefront. I help connect the product experience, customer communication, order process, advertising, and automation around one clear business flow.",
+    "This cross-functional approach is especially useful for growing brands that need practical systems rather than disconnected tools."
+  ],
+  "capabilities": [
+    "Store strategy",
+    "Product architecture",
+    "Checkout and delivery communication",
+    "WhatsApp support flows",
+    "Payment workflows",
+    "Order confirmation",
+    "Customer experience improvements",
+    "Conversion-focused pages",
+    "Automation integration",
+    "Ads-to-store alignment"
+  ],
+  "tools": [
+    "Shopify",
+    "WooCommerce",
+    "Meta Ads",
+    "WhatsApp Business",
+    "n8n",
+    "Google Sheets",
+    "Analytics tools"
+  ],
+  "outcomes": [
+    "A more consistent purchase journey",
+    "Fewer operational gaps",
+    "Better customer communication",
+    "Systems prepared for growth"
+  ],
+  "cta": "Improve an ecommerce system"
+}

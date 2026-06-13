@@ -1,0 +1,56 @@
+{
+  "slug": "meta-ads-growth-system",
+  "order": 5,
+  "featured": true,
+  "title": "Ecommerce Meta Ads Growth System",
+  "service": "meta-ads",
+  "secondaryServices": [
+    "ecommerce-solutions"
+  ],
+  "category": "Meta Ads \u00b7 Ecommerce Growth",
+  "status": "Ongoing campaign work",
+  "year": "2025\u20132026",
+  "shortDescription": "A structured advertising system covering campaign setup, audience testing, creative analysis, retargeting, message journeys, and performance decisions.",
+  "overview": [
+    "The work focused on improving how a local ecommerce brand plans, measures, and responds to campaign performance.",
+    "Instead of treating ads as isolated creatives, the system connects offer, audience, customer message flow, storefront, and follow-up."
+  ],
+  "problem": "The brand needed clearer campaign structure and more disciplined decisions around audiences, creatives, budgets, retargeting, and customer messages.",
+  "solution": "I organized the funnel into cold acquisition, high-intent retargeting, creative testing, reporting, and operational response steps.",
+  "features": [
+    "Sales and messaging campaign setup",
+    "Audience and city targeting",
+    "Creative testing framework",
+    "Retargeting audiences",
+    "Ad copy and offer planning",
+    "Metric review and budget decisions",
+    "Message-flow alignment",
+    "Tracking support"
+  ],
+  "tools": [
+    "Meta Ads Manager",
+    "Meta Business Suite",
+    "Instagram",
+    "WhatsApp Business",
+    "Shopify",
+    "Google Sheets"
+  ],
+  "industry": "Fashion ecommerce",
+  "clientType": "Local direct-to-consumer brand",
+  "timeline": "Ongoing analysis and optimization",
+  "results": [
+    "More structured campaign decisions",
+    "Reusable testing and reporting process",
+    "Better connection between advertising and customer handling"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Plan an ecommerce campaign",
+  "image": "/placeholders/meta-ads.svg",
+  "gallery": [
+    "/placeholders/meta-ads.svg",
+    "/placeholders/ads-dashboard.svg",
+    "/placeholders/creative-testing.svg"
+  ]
+}

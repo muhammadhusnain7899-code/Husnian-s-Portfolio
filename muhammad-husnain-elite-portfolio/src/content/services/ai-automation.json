@@ -1,0 +1,46 @@
+{
+  "slug": "ai-automation",
+  "order": 5,
+  "featured": true,
+  "title": "AI Automation",
+  "kicker": "Less manual work, better response systems",
+  "summary": "AI-assisted workflows for customer support, order handling, lead capture, follow-ups, and connected business operations.",
+  "description": [
+    "I design automation workflows that connect messages, forms, spreadsheets, databases, and AI tools so businesses can respond faster and keep information organized.",
+    "Automation is treated as one part of a larger system: the workflow must fit the business process, handle edge cases, and remain understandable for the team using it."
+  ],
+  "capabilities": [
+    "n8n workflows",
+    "Instagram automation",
+    "WhatsApp automation",
+    "Telegram automation",
+    "CRM automation",
+    "Lead capture systems",
+    "AI customer support",
+    "Follow-up systems",
+    "Google Sheets automation",
+    "Order management systems",
+    "Internal workflow automation",
+    "Webhook integrations",
+    "Admin notifications"
+  ],
+  "tools": [
+    "n8n",
+    "OpenAI APIs",
+    "Webhooks",
+    "Google Sheets",
+    "Telegram Bot API",
+    "WhatsApp tools",
+    "Airtable",
+    "Notion",
+    "Make",
+    "Zapier"
+  ],
+  "outcomes": [
+    "Faster customer response",
+    "Structured customer and order data",
+    "Reduced repetitive work",
+    "A documented workflow that can evolve"
+  ],
+  "cta": "Automate a business process"
+}

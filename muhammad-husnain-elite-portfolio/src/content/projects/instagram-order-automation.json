@@ -1,0 +1,58 @@
+{
+  "slug": "instagram-order-automation",
+  "order": 4,
+  "featured": true,
+  "title": "Instagram AI Order Concierge",
+  "service": "ai-automation",
+  "secondaryServices": [
+    "business-process-automation",
+    "ecommerce-solutions"
+  ],
+  "category": "Automation \u00b7 Ecommerce Operations",
+  "status": "Workflow prototype",
+  "year": "2026",
+  "shortDescription": "A conversational workflow that answers product questions, collects order details, records structured data, and notifies the business team.",
+  "overview": [
+    "The workflow was designed around a real ecommerce message journey rather than a generic chatbot.",
+    "It handles product context, selection steps, customer information, order confirmation, data logging, and internal notification."
+  ],
+  "problem": "Manual Instagram order handling required repeated questions, created inconsistent records, and increased the chance of missing customer details.",
+  "solution": "I mapped the order conversation into stages and connected the message flow with structured data capture and operational notifications.",
+  "features": [
+    "Product inquiry replies",
+    "Size and color selection",
+    "Customer detail collection",
+    "Order confirmation flow",
+    "Google Sheets order logging",
+    "Business owner notifications",
+    "AI-assisted response logic",
+    "Conversation-stage management"
+  ],
+  "tools": [
+    "n8n",
+    "Webhooks",
+    "Instagram messaging concepts",
+    "OpenAI",
+    "Google Sheets",
+    "WhatsApp tools"
+  ],
+  "industry": "Fashion ecommerce",
+  "clientType": "Local ecommerce operation",
+  "timeline": "Prototype and iterative testing",
+  "results": [
+    "A repeatable order collection flow",
+    "More structured customer data",
+    "Reduced repetitive manual questioning",
+    "A foundation for multi-channel automation"
+  ],
+  "metrics": [],
+  "liveUrl": "",
+  "githubUrl": "",
+  "cta": "Automate customer operations",
+  "image": "/placeholders/instagram-automation.svg",
+  "gallery": [
+    "/placeholders/instagram-automation.svg",
+    "/placeholders/workflow-canvas.svg",
+    "/placeholders/order-sheet.svg"
+  ]
+}
