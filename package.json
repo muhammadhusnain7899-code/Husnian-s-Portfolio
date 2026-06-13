@@ -4,9 +4,9 @@
   "version": "3.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite muhammad-husnain-elite-portfolio",
-    "build": "vite build muhammad-husnain-elite-portfolio",
-    "preview": "vite preview muhammad-husnain-elite-portfolio --host 0.0.0.0",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
     "check": "eslint muhammad-husnain-elite-portfolio"
   },
   "dependencies": {
