@@ -4,10 +4,8 @@ import Reveal from '../components/Reveal';
 import SectionHeader from '../components/SectionHeader';
 import ServiceCard from '../components/ServiceCard';
 import ProjectCard from '../components/ProjectCard';
-import HeroVisual from '../components/HeroVisual';
 import ContactCta from '../components/ContactCta';
 import CapabilityMarquee from '../components/CapabilityMarquee';
-import ProcessExperience from '../components/ProcessExperience';
 import HeroHeading from '../components/HeroHeading';
 import ProfileMedia from '../components/ProfileMedia';
 import { projects, services, site } from '../lib/content';
@@ -21,8 +19,8 @@ export default function Home() {
       <section className="hero section-first">
         <div className="hero-glow hero-glow-one" />
         <div className="hero-glow hero-glow-two" />
-        <div className="container hero-grid">
-          <Reveal className="hero-copy">
+        <div className="container hero-grid hero-grid-centered">
+          <Reveal className="hero-copy hero-copy-centered">
             <span className="availability"><span className="status-dot" />{site.eyebrow}</span>
             <HeroHeading text={site.heroTitle} />
             <p className="hero-subtitle">{site.heroSubtitle}</p>
@@ -41,7 +39,6 @@ export default function Home() {
               <a href={site.fiverr} target="_blank" rel="noreferrer"><Sparkles size={17} /> Fiverr</a>
             </div>
           </Reveal>
-          <Reveal delay={0.12}><HeroVisual /></Reveal>
         </div>
       </section>
 
@@ -82,8 +79,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <ProcessExperience />
 
       <section className="section section-tint">
         <div className="container about-preview-grid">
